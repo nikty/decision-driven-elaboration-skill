@@ -1,0 +1,12 @@
+interface:
+  display_name: Decision-Driven Elaboration
+  short_description: Elicit decisions one by one, then derive precise requirements
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
